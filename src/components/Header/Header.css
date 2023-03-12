@@ -1,0 +1,17 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo {
+    width: 9rem;
+    height: auto;
+    padding: 0 14px;
+}
+
+#menu-bar {
+    width: 4rem;
+    height: auto;
+    padding: 0 14px;
+}
+
