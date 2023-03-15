@@ -1,0 +1,19 @@
+.list-container {
+    margin-right: 0.5rem;
+    background-color: #ebecf0;
+    width: 272px;
+    padding: 8px 14px;
+    border-radius: 3px;
+}
+
+.cards-container {
+    overflow-x: auto;
+    max-height: 55vh;
+}
+
+.card-container {
+    overflow-y: hidden;
+    margin: 0.5rem 0;
+}
+
+
