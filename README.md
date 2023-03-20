@@ -29,7 +29,7 @@
 In the project directory, you can run:
 ## `pnpm install`
 
-It will install all the necessary packages.
+It will install all the necessary dependencies.
 
 ### `pnpm dev`
 
